@@ -1,0 +1,6 @@
+C:\Users\Dids\Desktop\inTouch Demo\TypeScriptGame\TypeScriptGame\TypeScriptGame\bin\TypeScriptGame.dll.config
+C:\Users\Dids\Desktop\inTouch Demo\TypeScriptGame\TypeScriptGame\TypeScriptGame\bin\TypeScriptGame.dll
+C:\Users\Dids\Desktop\inTouch Demo\TypeScriptGame\TypeScriptGame\TypeScriptGame\bin\TypeScriptGame.pdb
+C:\Users\Dids\Desktop\inTouch Demo\TypeScriptGame\TypeScriptGame\TypeScriptGame\obj\Debug\TypeScriptGame.dll
+C:\Users\Dids\Desktop\inTouch Demo\TypeScriptGame\TypeScriptGame\TypeScriptGame\obj\Debug\TypeScriptGame.pdb
+C:\Users\Dids\Desktop\inTouch Demo\TypeScriptGame\TypeScriptGame\TypeScriptGame\obj\Debug\TypeScriptGame.csprojResolveAssemblyReference.cache
